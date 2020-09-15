@@ -23,6 +23,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Ctrl + (Right arrow)` --> Move one word to the right at a time.
 
 ## 2.Microsoft Windows shortcut keys list
+
 ##### `Alt + Tab` --> Switch between open applications.
 ##### `Alt + Shift + Tab` --> Switch backward between open applications.
 ##### `Alt + Print Screen` --> Create screenshot for the current program.
@@ -43,6 +44,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Holding Shift During Boot up` --> When putting in an audio CD, will prevent CD Player from playing.
 
 ## 3.Here comes MS Word shortcut keys
+
 ##### `Ctrl + A` --> Select all contents of the page.
 ##### `Ctrl + B` --> Bold highlighted selection.
 ##### `Ctrl + C` --> Copy selected text.
@@ -101,6 +103,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Ctrl + W` --> Close document.
 
 ## 4.I know what you are scrolling for `Excel shortcut keys`
+
 ##### `F2` --> Edit the selected cell.
 ##### `F5` --> Go to a specific cell.
 ##### `F7` --> Spell check selected text and/or document.
@@ -147,6 +150,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Ctrl + W` --> Close document.
 
 ## 5.Well i do not use Outlook but here are shortcut keys
+
 ##### `Alt + S` --> Send the email.
 ##### `Ctrl + C` --> Copy selected text.
 ##### `Ctrl + X` --> Cut selected text.
@@ -166,6 +170,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Ctrl + Shift+ J` --> Create a new journal entry.
 
 ## 6.Trust me WINKEY(WINDOWS KEY) shortcuts are the most cool shortcuts
+
 ##### `WINKEY + D` --> Bring desktop to the top of other windows.
 ##### `WINKEY + M` --> Minimize all windows.
 ##### `WINKEY + SHIFT + M` --> Undo the minimize done by WINKEY + M and WINKEY + D.
@@ -179,3 +184,28 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `WINKEY + U` --> Open utility manager.
 ##### `WINKEY + L` --> Lock the computer (Windows XP & later).
 ##### `WINKEY + NUMBERS` --> To open taskbar application at that number (0 to 9).
+
+## 7. Youtube Shortcuts
+
+##### `k or Spacebar` --> Toggle play/pause the video
+##### `Left arrow` --> Go back 5 seconds
+##### `j` --> Go back 10 seconds
+##### `Right arrow` --> Go forward 5 seconds
+##### `l` --> Go forward 10 seconds
+##### `Numbers 1-9 (not the keypad numbers)` --> Skip to a particular section of the video (e.g., 5 goes to the video midpoint)
+##### `0 (not the keypad number)` --> Restart video
+##### `f` --> Go to Full Screen mode
+##### `Esc/Escape` --> Exit Full Screen mode
+##### `Home` --> Go to beginning of video
+##### `End` --> Go to end of video
+##### `Up arrow` --> Increase volume 5%
+##### `Down arrow` --> Decrease volume 5%
+##### `Shift+> (may not work in all browsers) or Shift+. (period)` --> Increase speed
+##### `Shift+< (may not work in all browsers)  or Shift+, (comma)` --> Decrease speed
+##### `. (period)` --> Move forward 1 frame when video is paused
+##### `, (comma)` --> Move backward 1 frame when video is paused	
+##### `m` --> Mute/unmute video
+##### `c` --> Turn captions on/off
+##### `b` --> Cycle through options for caption background color 
+##### `Shift+pMove` --> to the previous video in a playlist
+##### `Shift+n` --> Move to the next video in a playlist
