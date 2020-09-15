@@ -22,7 +22,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Ctrl + (Left arrow)` --> Move one word to the left at a time.
 ##### `Ctrl + (Right arrow)` --> Move one word to the right at a time.
 
-# Microsoft Windows shortcut keys list
+## 2.Microsoft Windows shortcut keys list
 ##### `Alt + Tab` --> Switch between open applications.
 ##### `Alt + Shift + Tab` --> Switch backward between open applications.
 ##### `Alt + Print Screen` --> Create screenshot for the current program.
@@ -42,7 +42,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Holding Shift During Boot up` --> Boot safe mode or bypass system files.
 ##### `Holding Shift During Boot up` --> When putting in an audio CD, will prevent CD Player from playing.
 
-# Here comes MS Word shortcut keys
+## 3.Here comes MS Word shortcut keys
 ##### `Ctrl + A` --> Select all contents of the page.
 ##### `Ctrl + B` --> Bold highlighted selection.
 ##### `Ctrl + C` --> Copy selected text.
@@ -100,7 +100,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Alt + Shift + T` --> Insert the current time.
 ##### `Ctrl + W` --> Close document.
 
-# I know what you are scrolling for `Excel shortcut keys`
+## 4.I know what you are scrolling for `Excel shortcut keys`
 ##### `F2` --> Edit the selected cell.
 ##### `F5` --> Go to a specific cell.
 ##### `F7` --> Spell check selected text and/or document.
@@ -146,7 +146,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Shift + Space` --> Select entire row.
 ##### `Ctrl + W` --> Close document.
 
-# Well i do not use Outlook but here are shortcut keys
+## 5.Well i do not use Outlook but here are shortcut keys
 ##### `Alt + S` --> Send the email.
 ##### `Ctrl + C` --> Copy selected text.
 ##### `Ctrl + X` --> Cut selected text.
@@ -165,7 +165,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Ctrl + Shift + C` --> Create a new contact.
 ##### `Ctrl + Shift+ J` --> Create a new journal entry.
 
-# Trust me WINKEY(WINDOWS KEY) shortcuts are the most cool shortcuts
+## 6.Trust me WINKEY(WINDOWS KEY) shortcuts are the most cool shortcuts
 ##### `WINKEY + D` --> Bring desktop to the top of other windows.
 ##### `WINKEY + M` --> Minimize all windows.
 ##### `WINKEY + SHIFT + M` --> Undo the minimize done by WINKEY + M and WINKEY + D.
