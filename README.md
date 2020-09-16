@@ -190,7 +190,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `k or Spacebar` --> Toggle play/pause the video
 ##### `Left arrow` --> Go back 5 seconds
 ##### `j` --> Go back 10 seconds
-##### `Right arrow` --> Go forward 5 seconds
+##### `Right arrow or Left arrow (→/←)` --> Go forward 5 seconds
 ##### `l` --> Go forward 10 seconds
 ##### `Numbers 1-9 (not the keypad numbers)` --> Skip to a particular section of the video (e.g., 5 goes to the video midpoint)
 ##### `0 (not the keypad number)` --> Restart video
@@ -198,8 +198,8 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Esc/Escape` --> Exit Full Screen mode
 ##### `Home` --> Go to beginning of video
 ##### `End` --> Go to end of video
-##### `Up arrow` --> Increase volume 5%
-##### `Down arrow` --> Decrease volume 5%
+##### `Up arrow (↑)` --> Increase volume 5%
+##### `Down arrow (↓)` --> Decrease volume 5%
 ##### `Shift+> (may not work in all browsers) or Shift+. (period)` --> Increase speed
 ##### `Shift+< (may not work in all browsers)  or Shift+, (comma)` --> Decrease speed
 ##### `. (period)` --> Move forward 1 frame when video is paused
@@ -207,5 +207,26 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `m` --> Mute/unmute video
 ##### `c` --> Turn captions on/off
 ##### `b` --> Cycle through options for caption background color 
-##### `Shift+pMove` --> to the previous video in a playlist
+##### `Shift+p` --> Move to the previous video in a playlist
 ##### `Shift+n` --> Move to the next video in a playlist
+##### `+ or =` --> Increase subtitles/closed captions if available
+##### `-` --> Decrease subtitles/closed captions size
+##### `o` --> Rotate through different text opacity levels
+##### `w` --> Rotate through different window opacity levels
+##### `m` --> Toggle mute/unmute
+##### `f` --> Toggle full screen mode
+##### `t` --> Toggle theater mode
+##### `Escape` --> Exit full screen mode, close mini player, close dialogs
+##### `Tab or Shift + tab` --> When the video player has the focus, to navigate forward or backward hroughout the different controls
+##### `Spacebar or Enter` --> When the video player has the focus, to use the control that is selected
+##### `↑ ↓ ← → keys can also be used to navigate in the settings menu and to close the setting menu press Escape`
+##### `/` --> Place text cursor in search field to start typing
+
+
+### For spherical videos
+##### `w` --> Pan up.
+##### `s` --> Pan down.
+##### `a` --> Pan left.
+##### `d` --> Pan right.
+##### `]` --> Zoom in.
+##### `[` --> Zoom out.
