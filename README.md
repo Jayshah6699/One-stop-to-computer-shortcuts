@@ -173,6 +173,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 
 ##### `WINKEY + D` --> Bring desktop to the top of other windows.
 ##### `WINKEY + M` --> Minimize all windows.
+##### `WINKEY + A` --> Open the action center.
 ##### `WINKEY + SHIFT + M` --> Undo the minimize done by WINKEY + M and WINKEY + D.
 ##### `WINKEY + E` --> Open Microsoft Explorer.
 ##### `WINKEY + Tab` --> Cycle through open programs on the taskbar.
@@ -183,7 +184,12 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `WINKEY + Pause /Break` --> Open the system properties window.
 ##### `WINKEY + U` --> Open utility manager.
 ##### `WINKEY + L` --> Lock the computer (Windows XP & later).
+##### `WINKEY + Q` --> Open the search bar.
 ##### `WINKEY + NUMBERS` --> To open taskbar application at that number (0 to 9).
+##### `WINKEY + Ctrl + D` -->Create New Virtual Desktop.
+##### `WINKEY + Ctrl + F4` --> Close the Current Desktop.
+##### `WINKEY + R` --> Open the run window.
+##### `WINKEY + PrtScr` --> Copy Screenshot to Computer > Pictures > Screenshots.
 
 ## 7. Youtube Shortcuts
 
