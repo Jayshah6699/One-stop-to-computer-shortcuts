@@ -21,6 +21,9 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `Shift + End` --> Highlight from current position to end of the line.
 ##### `Ctrl + (Left arrow)` --> Move one word to the left at a time.
 ##### `Ctrl + (Right arrow)` --> Move one word to the right at a time.
+##### `Alt + (Left arrow)` --> To go back in browser or file menu
+##### `Alt + (Right arrow)` --> To go forward in browser or file menu
+##### `Mouse main key(Left key in most cases) long press` --> To see history of visited tabs for current tab
 
 ## 2.Microsoft Windows shortcut keys list
 
