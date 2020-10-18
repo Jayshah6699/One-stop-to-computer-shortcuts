@@ -240,7 +240,7 @@ I have always been fascinated with shortcuts so here I am with all shortcuts I r
 ##### `]` --> Zoom in.
 ##### `[` --> Zoom out.
 
-## Visual Studio Code shortcuts
+## 8.Visual Studio Code shortcuts
 
 ### General
 
